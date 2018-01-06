@@ -10,6 +10,9 @@ Main problems to solve:
 - Clean the Data :
     * Images: normalize pixel data, pixel representation, etc...
     * Non images: remove NaNs and infinites, should that be a string? could I categorize it? hot encoding ?
+- Labelize Data:
+   * Images: segmentation, caracterization, annotation, captionning
+   * Non images: text, caption, reports
 - Data augmentation:
     * Images: rotation, flip, shear, crop, etc...
     * Non images: don't know yet
@@ -23,25 +26,13 @@ Main problems to solve:
 - What's next ? compression of the model, encrypt of the inference ?
 
 
-6 months program:
-- Learn the math (2 - 3 months)
-- Learn the programming language (1 month)
-- Machine learning tutorials and test projects (1 - 2 months)
-- Short term passion projects (1+ month)
-
-METIS: Data science and machine learning classes/bootcamps
-
-
-
 Optimization of models:
-   Compression:
-      - Pruning 
-      - Weight Sharing
-      - Quantization
-      - Low Rank Approximation
-      - Binary / Ternary Net
-      - Winograd Transformation
-   Acceleration:
+   - Pruning 
+   - Weight Sharing
+   - Quantization
+   - Low Rank Approximation
+   - Binary / Ternary Net
+   - Winograd Transformation
       
    
 

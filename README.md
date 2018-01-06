@@ -31,4 +31,18 @@ Main problems to solve:
 
 METIS: Data science and machine learning classes/bootcamps
 
+
+
+Optimization of models:
+   Compression:
+      - Pruning 
+      - Weight Sharing
+      - Quantization
+      - Low Rank Approximation
+      - Binary / Ternary Net
+      - Winograd Transformation
+   Acceleration:
+      
+   
+
     
